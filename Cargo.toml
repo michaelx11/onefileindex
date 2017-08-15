@@ -1,0 +1,6 @@
+[package]
+name = "onefileindex"
+version = "0.1.0"
+authors = ["michaelx <michaeljxu11@gmail.com>"]
+
+[dependencies]
